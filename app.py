@@ -1,3 +1,5 @@
+import requests
+from bs4 import BeautifulSoup
 import streamlit as st
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 from summarizer import Summarizer
@@ -94,4 +96,5 @@ if st.button("Generate Summary"):
 
 # Footer
 st.markdown("---")
+
 st.markdown("Built with Python, Streamlit, and Hugging Face Transformers.")
