@@ -1,5 +1,6 @@
 streamlit
 transformers
-torch
 sentencepiece
 bert-extractive-summarizer
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
