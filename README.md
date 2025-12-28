@@ -127,12 +127,4 @@ This model was fine-tuned on the **[CNN/DailyMail or XSum]** dataset containing 
 * **UI Implementation:** Building a Streamlit or Flask web interface for easy user interaction.
 * **Long Document Handling:** Implementing sliding window techniques for documents longer than 512 tokens.
 
----
-
-
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---------------------------------------------------------------------------------
